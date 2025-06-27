@@ -2,6 +2,8 @@
 
 Welcome to a fun example of AI-powered interactive training! This demonstrates the approach described in the blog post using a topic every web developer can relate to: migrating from jQuery to modern vanilla JavaScript.
 
+This was born out of my blog post [How I Built Interactive AI-Powered Training with GitHub Copilot ](https://nickperkins.au/article/interactive-ai-copilot-training/) and is designed to show how GitHub Copilot can be transformed into an intelligent tutor for any technical topic.
+
 ## What is this?
 
 This is a working example of the AI-powered training platform architecture described in the blog post. It shows how GitHub Copilot can be transformed into an intelligent tutor for any technical topic.
